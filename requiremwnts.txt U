@@ -1,0 +1,10 @@
+streamlit
+openai
+streamlit
+numpy
+matplotlib
+opencv-python-headless
+librosa
+tensorflow
+pandas
+joblib
