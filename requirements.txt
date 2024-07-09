@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+numpy
+opencv-python
+librosa
+tensorflow
+pandas
+joblib
