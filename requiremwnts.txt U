@@ -1,8 +1,7 @@
 streamlit
-openai
-streamlit
-numpy
 matplotlib
+openai
+numpy
 opencv-python-headless
 librosa
 tensorflow
